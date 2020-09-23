@@ -1,0 +1,9 @@
+	Hey, this is mBowers here. If you have any questions or comments about
+this little program, drop me a line at mbowers@blazenet.net or ICQ me at 55315571.
+
+	It took me a couple months but I FINDLY found the way to convert X,Y,Z to X,Y,
+as used in this Starfield. And I was disappointed in its simplicity. :\ Ah well, no to
+learn raycasting! :)
+
+	Cya
+	mBowers
